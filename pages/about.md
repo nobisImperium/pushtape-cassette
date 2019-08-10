@@ -1,18 +1,6 @@
-# About
+<img src="https://maslowsbasement.com/images/animatedLogo.gif" class="card-img-top" alt="Maslow's Basement">
 
-This is an example [markdown](https://daringfireball.net/projects/markdown/syntax) page. You can edit this file by navigating to your site's pages/ directory.
-
-Markdown syntax supports [hyperlinks](http://www.pushtape.com), *italics*, **bold** text, and lots more.
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-
-#### Unordered List
-- apples
-- oranges
-- bananas
+Maslow's Basement is a musical project originally formed in Los Angeles California, now based in Kansas City. Project music is most often lyrically inspired by several notions related to Abraham Maslow's Hierarchy of Needs - and describe the personal journeys and processes involved in escaping from the lower levels (homelessness, drug addiction, etc.) and climbing out of the basement. 
 
 #### Ordered list
 1. drums
@@ -21,21 +9,11 @@ Markdown syntax supports [hyperlinks](http://www.pushtape.com), *italics*, **bol
 
 > Blockquote (highlighted text)  
 
-Column1 | Column2 | Column3
---- | --- | ---
-What | about | tables?
-Tables | are supported  | in markdown
 
 ```
 Code snippet
 ```
 
-Pressing return twice at the end of a line will
-
-create a new paragraph.
-
-Adding two spaces at the end of a line  
-acts as a simple line break.
 
 <div class="row">
   <div class="col-sm-4">Regular HTML...</div>
@@ -43,6 +21,3 @@ acts as a simple line break.
   <div class="col-sm-4">will also work.</div>
 </div>
 
-***
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4tAsNON4SN0" frameborder="0" allowfullscreen></iframe>
