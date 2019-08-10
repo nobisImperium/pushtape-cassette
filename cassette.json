@@ -6,15 +6,14 @@
   },
   "pages": {
      "releases" : {},
-     "about" : {"location" : "pages/about.md"},
-     "shows" : {"location" : "pages/shows.md"}
+     "about" : {"location" : "pages/about.md"}
   },
   "releases": {
-    "example-release": {
+    "eveOfDestruction": {
       "title" : "Eve Of Destruction",
-      "playlist" : "releases/example-release/tracklist.jspf",
-      "artwork" : "releases/example-release/artwork.jpg",
-      "notes" : "releases/example-release/notes.md"  
+      "playlist" : "releases/eveOfDestruction/tracklist.jspf",
+      "artwork" : "releases/eveOfDestruction/artwork.jpg",
+      "notes" : "releases/eveOfDestruction/notes.md"  
     }
   }
 }
