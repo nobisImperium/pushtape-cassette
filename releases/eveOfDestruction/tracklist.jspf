@@ -1,0 +1,23 @@
+{
+  "playlist": {
+    "title"         : "Eve Of Destruction",
+    "creator"       : "Maslow's Basement",
+    "track"         : [
+        {
+          "location"      : ["releases/example-release/01Been Ballin - Proto1.mp3.mp3"], 
+          "title"         : "Been Ballin",
+          "creator"       : "Maslow's Basement"
+        },
+        {
+          "location"      : ["releases/example-release/02Memorial Day 2018.mp3"], 
+          "title"         : "Memorial Day 2018",
+          "creator"       : "Maslow's Basement"
+        },
+        {
+          "location"      : ["releases/example-release/04Thunder 1.4.mp3"], 
+          "title"         : "Thunder",
+          "creator"       : "Maslow's Basement"
+        }            
+      ]
+  }
+}
